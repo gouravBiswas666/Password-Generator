@@ -1,3 +1,3 @@
 # Password-Generator
 
-hosted link =>
+hosted link => https://gouravbiswas666.github.io/Password-Generator/
